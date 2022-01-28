@@ -69,7 +69,7 @@ export default function PaginaInicial() {
         styleSheet={{
           display: 'flex', alignItems: 'center', justifyContent: 'right',
           backgroundColor: appConfig.theme.colors.neutrals[100],
-          backgroundImage: 'url(https://images2.alphacoders.com/100/thumb-1920-1003880.png)',
+          backgroundImage: 'url(https://assets.b9.com.br/wp-content/uploads/2020/05/TheMidnightGospel_Seson1_Episode8_00_00_24_11.jpg)',
           backgroundRepeat: 'no-repeat', backgroundSize: 'cover', backgroundBlendMode: 'multiply',
         }}
       >
